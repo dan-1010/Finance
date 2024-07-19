@@ -1,0 +1,3 @@
+[submodule "stock_streamlit"]
+	path = stock_streamlit
+	url = https://github.com/dan-1010/stock_streamlit.git
